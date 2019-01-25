@@ -36,7 +36,7 @@
     }
 
     update() {
-        this.background.tilePositionX += this.gameSpeed;
+        // this.background.tilePositionX += this.gameSpeed;
 
         // if (this.cursors.space.isDown && this.goblin.body.touching.down)
         //     this.goblin.setVelocityY(-300);
